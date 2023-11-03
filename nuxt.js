@@ -6,7 +6,7 @@ export default defineNuxtModule({
     "components:dirs"(dirs) {
       dirs.push({
         path: join(__dirname, "components"),
-        prefix: "K",
+        prefix: "@k",
       });
     },
   },
