@@ -1,0 +1,25 @@
+{
+  "name": "k-speech-commander",
+  "description": "Voice assistant component for Nuxt 3",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Alexander Toscano Ricardo",
+    "email": "atoscnao@correo.unicordoba.edu.co"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^3.7.4",
+    "pinia": "^2.1.7",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}

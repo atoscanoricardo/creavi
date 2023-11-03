@@ -1,0 +1,20 @@
+{
+  "commands": [
+    {
+      "name": "leer contenido",
+      "action": "readContent"
+    },
+    {
+      "name": "abrir menú",
+      "action": "openMenu"
+    },
+    {
+      "name": "aumentar tamaño del texto",
+      "action": "increaseTextSize"
+    },
+    {
+      "name": "disminuir tamaño del texto",
+      "action": "decreaseTextSize"
+    }
+  ]
+}
